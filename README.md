@@ -45,17 +45,17 @@ The Insurance dataset contains the following information :
 
 # Key Features 
 
-1. Key Mertics :-
+**1. Key Mertics :-**
    - Total Revenue
    - Total Profit
    - Total Expenses
    - Profit Margin (%)
-2. Interactive Visulizations :-
+**2. Interactive Visulizations :-**
    - Sales vs Profit Analysis (Scatter Chart)
    - Discount Analysis (Bar Chart)
    - Region-wise / City-wise Sales Map
    - Category & Product Line Performance
-3. Dynamic Filters (Slicers) :-
+**3. Dynamic Filters (Slicers) :-**
    - Product Line
    - Region / State
    - Time (Month / Year)
